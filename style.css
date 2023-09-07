@@ -1,0 +1,63 @@
+img.one{
+	width:300px;
+	margin-left:90px;
+}
+ul{
+	float:right;
+	list-style:none;
+}
+ li{
+	display:inline;
+	color:white;
+	font-size:20px;
+	padding:0px 20px;
+	margin-right:50px;
+	cursor:move;
+}
+li button{
+	background-color:skyblue;
+	color:white;
+	margin-left:40px;
+	border-color:skyblue;
+	cursor:pointer;
+}
+.nav {
+	color:white;
+	Font-family:"arial";
+	padding:90px 140px;
+	display:block;
+float:left;
+
+}
+.nav p{
+	color:white;
+	font-size:20px;
+	line-height:30px;	
+	cursor:crosshair;
+}
+.two{
+	float:right;
+	width:	400px;
+	display:block;
+}
+
+.two img{
+	 display:block;
+	width:300px;
+	height:300px;	
+	margin-top:50px;
+
+}
+.two button{
+	padding:20px;
+	margin:90px 90px;
+	margin-button:40px;
+	font-size:-20px;
+	background-color:skyblue;
+	color:white;
+	border-color:skyblue;
+	box-radius:100px;
+
+
+
+}
